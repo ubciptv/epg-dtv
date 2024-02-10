@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Crazy EPG 0.8.6 - NBTC Software" generator-info-url="https://dttguide.nbtc.go.th">
 <channel id="NBT-NORTH.th"><display-name lang="th">NBT-NORTH.th</display-name><icon src="https://nbtchiangmai.prd.go.th/th/file/get/file/2022072196d6f2e7e1f705ab5e59c84a6dc009b2124633.png"/></channel>
-<programme start="20240210000000 +0700" stop="20240208000500 +0700" channel="NBT-NORTH.th"><title lang="th">ปิดสถานี</title><desc lang="th"></desc></programme>
-<programme start="20240210000500 +0700" stop="20240210050505 +0700" channel="NBT-NORTH.th"><title lang="th">เปิดสถานี</title></programme>
+<programme start="20240210000000 +0700" stop="20240210500000 +0700" channel="NBT-NORTH.th"><title lang="th">ปิดสถานี</title><desc lang="th"></desc></programme>
+<programme start="20240210050000 +0700" stop="20240210505000 +0700" channel="NBT-NORTH.th"><title lang="th">เปิดสถานี</title></programme>
 <programme start="20240208050000 +0700" stop="20240208053500 +0700" channel="NBT 2 HD.th"><title lang="th">พุทธธรรมนำปัญญา</title><desc lang="th">ธรรมะ</desc></programme>
 <programme start="20240208053500 +0700" stop="20240208060000 +0700" channel="NBT 2 HD.th"><title lang="th">เมืองไทยดี๊ดี</title><desc lang="th">ท่องเที่ยว</desc></programme>
 <programme start="20240208060000 +0700" stop="20240208080000 +0700" channel="NBT 2 HD.th"><title lang="th">ข่าวเช้า NBT NEWS</title><desc lang="th">ข่าว</desc></programme>
